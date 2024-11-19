@@ -8,7 +8,7 @@ To classify images into six classes: **buildings**, **forest**, **glacier**, **m
 ### Background
 This project was initially assigned as a school assignment to deepen my understanding of deep learning concepts. To gain more hands-on experience with Jupyter, Anaconda, Git, and leveraging my NVIDIA GeForce RTX 4080 GPU, I transferred the project to this GitHub repository. This transition allows for better version control, collaboration, and efficient management of dependencies using Conda.
 
-### Project Overview
+### Project Overview 
 This repository contains implementations of two deep learning tasks:
 
 1. **Part 1: Movie Genre Prediction**
