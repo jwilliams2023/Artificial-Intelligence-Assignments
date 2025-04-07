@@ -1,6 +1,6 @@
 # Artificial Intelligence Assignments
 
-This repository contains assignments for the **COMP 5600 Artificial Intelligence** course at Auburn University. The assignments cover a range of foundational AI topics, including but not limited to:
+This repository contains assignments for the **=COMP 5600 Artificial Intelligence** course at Auburn University. The assignments cover a range of foundational AI topics, including but not limited to:
 
 - Introduction to Intelligent Agents  
 - Search Algorithms  
@@ -18,4 +18,4 @@ The purpose of this repository is not only to showcase the work and knowledge I 
 
 As a student using a Mac for school and a Windows PC at home, I developed these skills on both machines, learning to maintain consistency and functionality across platforms. To support reproducibility and modularity, I created separate Conda environments for each assignment, starting from **Assignment 0**.
 
-Feel free to explore and use this repository as a reference or learning resource (my professor explicitly allowed this)
+Feel free to explore and use this repository as a reference or learning resource (my professor explicitly allowed this).
