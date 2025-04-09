@@ -1,6 +1,6 @@
 # Artificial Intelligence Assignments
 
-This repository contains assignments for the **=COMP 5600 Artificial Intelligence** course at Auburn University. The assignments cover a range of foundational AI topics, including but not limited to:
+This repository contains assignments for the **COMP 5600 Artificial Intelligence** course at Auburn University. The assignments cover a range of foundational AI topics, including but not limited to:
 
 - Introduction to Intelligent Agents  
 - Search Algorithms  
